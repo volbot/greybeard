@@ -14,7 +14,15 @@ It is named after those mythical sysops, staring at white on blue Borland compil
 
 # Installation
 
-Font files can be downloaded from the [releases page](https://github.com/flowchartsman/greybeard/releases)
+Font files can be downloaded from the [releases page](https://github.com/flowchartsman/greybeard/releases).
+
+Greybeard is also available on the AUR, for Arch-based distros.
+
+Using [Paru](https://github.com/morganamilo/paru):
+
+```shell
+paru -S ttf-greybeard-bin 
+``` 
 
 # Usage
 
